@@ -1,0 +1,29 @@
+{
+  "username": "Leon00-max",
+  "header": "kami@buea",
+  "coding_since": "2020-01-01",
+  "line_width": 60,
+  "sections": [
+    [
+      ["OS", "Linux, Windows"],
+      ["Uptime", "{uptime}"],
+      ["Host", "University of Buea - B.Sc. Computer Science"],
+      ["Kernel", "Full-Stack Developer + Offensive Security"],
+      ["IDE", "VS Code, Vim"]
+    ],
+    [
+      ["Languages.Programming", "Python, C, C++, TypeScript, Bash"],
+      ["Languages.Web", "React, Next.js, Node.js, PostgreSQL"],
+      ["Languages.Real", "English, French"]
+    ],
+    [
+      ["Hobbies.Software", "CTFs, Terminal Games, Automation"],
+      ["Hobbies.Security", "OverTheWire, Reverse Engineering"]
+    ]
+  ],
+  "contact": [
+    ["Email", "werekublaise@gmail.com"],
+    ["LinkedIn", ""],
+    ["Location", "Buea, Cameroon - open to remote"]
+  ]
+}

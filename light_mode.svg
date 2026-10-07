@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1020" height="480" font-family="Consolas, 'DejaVu Sans Mono', 'Courier New', monospace" font-size="16px">
+<style>.k{fill:#953800} .v{fill:#0a3069} .d{fill:#c2cfde} text,tspan{white-space:pre}</style>
+<rect width="1020" height="480" fill="#f6f8fa" rx="15"/>
+<text x="15" y="30" fill="#24292f">
+<tspan x="15" y="30">     ___________________________________</tspan>
+<tspan x="15" y="50">    |  _____________________________  |</tspan>
+<tspan x="15" y="70">    | |                             | |</tspan>
+<tspan x="15" y="90">    | |  $ whoami                   | |</tspan>
+<tspan x="15" y="110">    | |  kami                       | |</tspan>
+<tspan x="15" y="130">    | |                             | |</tspan>
+<tspan x="15" y="150">    | |  $ cat skills.txt           | |</tspan>
+<tspan x="15" y="170">    | |  build . break . secure     | |</tspan>
+<tspan x="15" y="190">    | |                             | |</tspan>
+<tspan x="15" y="210">    | |  $ ./ship --prod            | |</tspan>
+<tspan x="15" y="230">    | |  [####################] OK  | |</tspan>
+<tspan x="15" y="250">    | |                             | |</tspan>
+<tspan x="15" y="270">    | |  $ _                        | |</tspan>
+<tspan x="15" y="290">    | |_____________________________| |</tspan>
+<tspan x="15" y="310">    |_________________________________|</tspan>
+<tspan x="15" y="330">           \_____________________/</tspan>
+<tspan x="15" y="350">         ___|___________________|___</tspan>
+<tspan x="15" y="370">        /  [][][][][][][][][][][]   \</tspan>
+<tspan x="15" y="390">       /  [][][][][][][][][][][][]   \</tspan>
+<tspan x="15" y="410">      /___[_____________________]____\</tspan>
+</text>
+<text x="420" y="30" fill="#24292f">
+<tspan x="420" y="30">kami@buea --------------------------------------------------</tspan>
+<tspan x="420" y="50" class="d">. </tspan><tspan class="k">OS</tspan>:<tspan class="d"> ....................................... </tspan><tspan class="v">Linux, Windows</tspan>
+<tspan x="420" y="70" class="d">. </tspan><tspan class="k">Uptime</tspan>:<tspan class="d"> ........................ </tspan><tspan class="v">6 years, 9 months, 6 days</tspan>
+<tspan x="420" y="90" class="d">. </tspan><tspan class="k">Host</tspan>:<tspan class="d"> ........ </tspan><tspan class="v">University of Buea - B.Sc. Computer Science</tspan>
+<tspan x="420" y="110" class="d">. </tspan><tspan class="k">Kernel</tspan>:<tspan class="d"> ........ </tspan><tspan class="v">Full-Stack Developer + Offensive Security</tspan>
+<tspan x="420" y="130" class="d">. </tspan><tspan class="k">IDE</tspan>:<tspan class="d"> ........................................ </tspan><tspan class="v">VS Code, Vim</tspan>
+<tspan x="420" y="170" class="d">. </tspan><tspan class="k">Languages.Programming</tspan>:<tspan class="d"> .. </tspan><tspan class="v">Python, C, C++, TypeScript, Bash</tspan>
+<tspan x="420" y="190" class="d">. </tspan><tspan class="k">Languages.Web</tspan>:<tspan class="d"> ....... </tspan><tspan class="v">React, Next.js, Node.js, PostgreSQL</tspan>
+<tspan x="420" y="210" class="d">. </tspan><tspan class="k">Languages.Real</tspan>:<tspan class="d"> .......................... </tspan><tspan class="v">English, French</tspan>
+<tspan x="420" y="250" class="d">. </tspan><tspan class="k">Hobbies.Software</tspan>:<tspan class="d"> ....... </tspan><tspan class="v">CTFs, Terminal Games, Automation</tspan>
+<tspan x="420" y="270" class="d">. </tspan><tspan class="k">Hobbies.Security</tspan>:<tspan class="d"> ....... </tspan><tspan class="v">OverTheWire, Reverse Engineering</tspan>
+<tspan x="420" y="310">- Contact --------------------------------------------------</tspan>
+<tspan x="420" y="330" class="d">. </tspan><tspan class="k">Email</tspan>:<tspan class="d"> ............................ </tspan><tspan class="v">werekublaise@gmail.com</tspan>
+<tspan x="420" y="350" class="d">. </tspan><tspan class="k">Location</tspan>:<tspan class="d"> ................ </tspan><tspan class="v">Buea, Cameroon - open to remote</tspan>
+<tspan x="420" y="390">- GitHub Stats ---------------------------------------------</tspan>
+<tspan x="420" y="410" class="d">. </tspan><tspan class="k">Repos</tspan>:<tspan class="d"> .................. </tspan><tspan class="v">11 {Contributed: --}</tspan> | <tspan class="k">Stars</tspan>: <tspan class="v">--</tspan>
+<tspan x="420" y="430" class="d">. </tspan><tspan class="k">Commits</tspan>:<tspan class="d"> ............................... </tspan><tspan class="v">--</tspan> | <tspan class="k">Followers</tspan>: <tspan class="v">6</tspan>
+<tspan x="420" y="450" class="d">. </tspan><tspan class="k">Contributions (last year)</tspan>:<tspan class="d"> ........................... </tspan><tspan class="v">682</tspan>
+</text>
+</svg>
