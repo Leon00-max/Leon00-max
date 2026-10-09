@@ -31,7 +31,7 @@
 <text x="420" y="30" fill="#c9d1d9">
 <tspan x="420" y="30">kami@buea --------------------------------------------------</tspan>
 <tspan x="420" y="50" class="d">. </tspan><tspan class="k">OS</tspan>:<tspan class="d"> ....................................... </tspan><tspan class="v">Linux, Windows</tspan>
-<tspan x="420" y="70" class="d">. </tspan><tspan class="k">Uptime</tspan>:<tspan class="d"> ........................ </tspan><tspan class="v">6 years, 9 months, 7 days</tspan>
+<tspan x="420" y="70" class="d">. </tspan><tspan class="k">Uptime</tspan>:<tspan class="d"> ........................ </tspan><tspan class="v">6 years, 9 months, 8 days</tspan>
 <tspan x="420" y="90" class="d">. </tspan><tspan class="k">Host</tspan>:<tspan class="d"> ........ </tspan><tspan class="v">University of Buea - B.Sc. Computer Science</tspan>
 <tspan x="420" y="110" class="d">. </tspan><tspan class="k">Kernel</tspan>:<tspan class="d"> ........ </tspan><tspan class="v">Full-Stack Developer + Offensive Security</tspan>
 <tspan x="420" y="130" class="d">. </tspan><tspan class="k">IDE</tspan>:<tspan class="d"> ........................................ </tspan><tspan class="v">VS Code, Vim</tspan>
@@ -46,6 +46,6 @@
 <tspan x="420" y="390">- GitHub Stats ---------------------------------------------</tspan>
 <tspan x="420" y="410" class="d">. </tspan><tspan class="k">Repos</tspan>:<tspan class="d"> ................... </tspan><tspan class="v">12 {Contributed: 0}</tspan> | <tspan class="k">Stars</tspan>: <tspan class="v">11</tspan>
 <tspan x="420" y="430" class="d">. </tspan><tspan class="k">Commits</tspan>:<tspan class="d"> .............................. </tspan><tspan class="v">148</tspan> | <tspan class="k">Followers</tspan>: <tspan class="v">6</tspan>
-<tspan x="420" y="450" class="d">. </tspan><tspan class="k">Contributions (last year)</tspan>:<tspan class="d"> ........................... </tspan><tspan class="v">685</tspan>
+<tspan x="420" y="450" class="d">. </tspan><tspan class="k">Contributions (last year)</tspan>:<tspan class="d"> ........................... </tspan><tspan class="v">690</tspan>
 </text>
 </svg>
